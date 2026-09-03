@@ -1,4 +1,6 @@
 /*
+Question link: https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/description/
+
 (a) arr of integers and a number k, return true if you can divide the arr into n/2 pairs and each pair is divisible by k. 
 (b) number can be -ve or +ve
 (c) length of arr is even
