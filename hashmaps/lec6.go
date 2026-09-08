@@ -1,5 +1,5 @@
 /*
-Link to question: 
+Link to question: https://www.geeksforgeeks.org/problems/zero-sum-subarrays1825/1
 
 Given an integer array `nums`, find the total number of continuous subarrays whose elements sum up to exactly `0`. 
 Note: A subarray is defined as any contiguous (ordered and unbroken) sequence of elements inside the main array.
